@@ -28,9 +28,25 @@ GET /github/search?user=Meyling
         {
             "login": "testuser",
             "id": 12345,
+            "node_id": "MDQ6VXNlcjEzNTcwMTY0",
             "avatar_url": "https://avatars.githubusercontent.com/u/12345?v=4",
-            "html_url": "https://github.com/testuser"
-....
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/testuser",
+            "html_url": "https://github.com/testuser",
+            "followers_url": "https://api.github.com/users/testuser/followers",
+            "following_url": "https://api.github.com/users/testuser/following{/other_user}",
+            "gists_url": "https://api.github.com/users/testuser/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/testuser/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/testuser/subscriptions",
+            "organizations_url": "https://api.github.com/users/testuser/orgs",
+            "repos_url": "https://api.github.com/users/testuser/repos",
+            "events_url": "https://api.github.com/users/testuser/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/testuser/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false,
+            "score": 1
+
         }
     ]
 }
