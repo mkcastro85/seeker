@@ -11,7 +11,7 @@ Este servicio permite  buscar usuarios en GitHub. La búsqueda se realiza a trav
 GET /github/search
 ```
 **Descripción:**
-Realizar busquueda.
+Realizar busqueda.
 
 **Parámetros:**
 - `user` (String, requerido) - Nombre de usuario a buscar.
